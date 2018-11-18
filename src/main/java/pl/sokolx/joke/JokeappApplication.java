@@ -1,4 +1,4 @@
-package pl.sokolx.joke.jokeapp;
+package pl.sokolx.joke;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
